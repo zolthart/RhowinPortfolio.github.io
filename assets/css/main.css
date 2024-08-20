@@ -289,7 +289,14 @@ input, select, textarea {
 			}
 
 		}
+		/*Adjustments*/
+		.image.avatar {
+			border-radius: 50%;
+			border: 2px solid #ffffff; /* adjust the border width and color as needed */
+			padding: 1px; /* add some padding to create space between the image and the border */
+		  }
 
+		  
 /* Row */
 
 	.row {
